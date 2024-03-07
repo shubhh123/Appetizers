@@ -1,0 +1,17 @@
+[
+    {
+        "id": "chicken",
+        "imageName": "chicken-momos",
+        "price": "8.99$"
+    },
+    {
+        "id": "burger",
+        "imageName": "burger",
+        "price": "10.8$"
+    },
+    {
+        "id": "pizza",
+        "imageName": "pizza",
+        "price": "12.99$"
+    }
+]
